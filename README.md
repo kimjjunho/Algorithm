@@ -28,4 +28,12 @@
 
 - 최대한 넓게 이동한 다음, 더 이상 갈 수 없을 때 아래로 이동
 
-  
+
+
+
+### 탐욕법(Greedy)
+
+나중을 생각하지 않고 순간마다 최선의 선택을 하는 알고리즘이다.
+
+- [42883](https://github.com/kimjjunho/Algorithm/blob/main/Kotlin/Programmers/Level2/42883.md)
+
