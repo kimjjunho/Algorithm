@@ -37,3 +37,20 @@
 
 - [42883](https://github.com/kimjjunho/Algorithm/blob/main/Kotlin/Programmers/Level2/42883.md)
 
+
+
+### Stack
+
+한 쪽 끝에서만 자료를 넣고 뺄 수 있는 LIFO (후입선출) 형식의 자료 구조
+
+**연산**
+
+- pop() : 스택에서 가장 위에 있는 항목을 제거한다
+- push(item) : item 하나를 스택의 가장 윗 부분에 추가한다
+- peek() : 스택의 가장 위에 있는 항목을 반환한다
+- isEmpty() : 스택이 비어 있을 때에 true를 반환한다
+
+**예제** 
+
+- [64061](https://github.com/kimjjunho/Algorithm/blob/main/Kotlin/Programmers/Level1/64061.md)
+
